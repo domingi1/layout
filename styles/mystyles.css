@@ -4,13 +4,13 @@
     height: 1000px;
     background: #eeeeee;
 }
-header{
-    width: 100px;
+header {
+    width: 100%;
     height: 50px;
     background:#dddddd;
     text-align: center;
 }
-article-header{
+.article-header{
     background:#ffffff;
 }
 nav,aside {
@@ -26,4 +26,5 @@ article{
 }
 #page-footer {
    clear:left;
+    background:#dddddd;
 }
